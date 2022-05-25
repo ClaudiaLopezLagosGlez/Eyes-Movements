@@ -1,0 +1,53 @@
+
+body {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: rgb(170, 117, 245);
+  cursor: url('./cookie-svg.svg'), auto;
+}
+
+.face {
+  position: relative;
+  width: 600px;
+  height: 600px;
+  border-radius: 50%;
+  background: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+  
+}
+.eyes {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  text-align: center;
+}
+.eye {
+  width: 200px;
+  height:200px;
+  background: #fff;
+  display: inline-block;
+  margin: 40px;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+}
+.ball {
+  width: 100px;
+  height: 100px;
+  background: #000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
+
+header
+{
+  background-position: bottom;
+}
