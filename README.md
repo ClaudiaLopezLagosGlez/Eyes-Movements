@@ -20,3 +20,4 @@ This is an academic activity that I did as part of the MIT Xpro Full Stack Devel
 
 ©️ License information:
  
+ Made with ❤️ by Claudia L.
