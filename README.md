@@ -1,5 +1,6 @@
 
-![EyesMovementsiMAGE](https://user-images.githubusercontent.com/101289219/170180214-e94ad46a-d366-4558-a5a9-6e24045ff2c0.jpg)
+![gif1](https://user-images.githubusercontent.com/101289219/170799716-e394f211-5e5a-4e45-8a52-11f03e4c77a4.gif)
+
 
 
 📌 Project Title: 
