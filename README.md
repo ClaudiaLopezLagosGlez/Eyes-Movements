@@ -11,14 +11,14 @@ Eyes Movements
 🎯 Description of the project:
 This is an academic activity that I did as part of the MIT Xpro Full Stack Developer Program. It consists of creating through Javascript eye movement linked to the      mouse. I added to the activity as extracurricular a design with HTML and CSS, which is minimalist and I was inspired by the famous Cookie Monster of Sesame Street     (Created by, Jim Henson 1967). To    give it a better look I changed the mouse icon for a cookie icon. I hope you like it.
 
-✨ How to run:
+✨ How to run: This project works with "Mouse Events", which are a popular way to bind DOM elements to events.
 
-🚀 Technologies:
+🚀 Technologies:JavaScript, HTML, Css 
 
-✅ Requirements:
+✅ Requirements:Installing Git and Copy the repository: https://github.com/ClaudiaLopezLagosGlez/Eyes-Movements.git
 
-♻️ Roadmap of future improvements: 
+♻️ Roadmap of future improvements: With Css and Boostrap Implement more design to achieve the Cookie Monster . Add some paragraph describing the Cookie Monster.
 
-©️ License information:
+©️ License information:This repository was made under the MIT license
  
- Made with ❤️ by Claudia L.
+
