@@ -13,12 +13,12 @@ This is an academic activity that I did as part of the MIT Xpro Full Stack Devel
 
 ✨ How to run: This project works with "Mouse Events", which are a popular way to bind DOM elements to events.
 
-🚀 Technologies:JavaScript, HTML, Css 
+🚀 Technologies: JavaScript, HTML, Css 
 
-✅ Requirements:Installing Git and Copy the repository: https://github.com/ClaudiaLopezLagosGlez/Eyes-Movements.git
+✅ Requirements: Installing Git and Copy the repository: https://github.com/ClaudiaLopezLagosGlez/Eyes-Movements.git
 
 ♻️ Roadmap of future improvements: With Css and Boostrap Implement more design to achieve the Cookie Monster . Add some paragraph describing the Cookie Monster.
 
-©️ License information:This repository was made under the MIT license
+©️ License information: This repository was made under the MIT license
  
 
